@@ -397,7 +397,7 @@ class LinkedinEasyApply:
                     elif 'urgent' in radio_text:
                         answer = self.get_answer('urgentFill')
 
-                    elif 'commut' in radio_text or 'on-site' in radio_text or 'hybrid' in radio_text or 'onsite' in radio_text:
+                    elif 'commute' in radio_text or 'on-site' in radio_text or 'hybrid' in radio_text or 'onsite' in radio_text:
                         answer = self.get_answer('commute')
 
                     elif 'remote' in radio_text:
@@ -593,7 +593,7 @@ class LinkedinEasyApply:
                         #    choice = options[len(options) - 1]
                         self.select_dropdown(dropdown_field, choice)
 
-                    elif 'commut' in question_text or 'on-site' in question_text or 'hybrid' in question_text or 'onsite' in question_text:
+                    elif 'commute' in question_text or 'on-site' in question_text or 'hybrid' in question_text or 'onsite' in question_text:
                         answer = self.get_answer('commute')
 
                         choice = ""

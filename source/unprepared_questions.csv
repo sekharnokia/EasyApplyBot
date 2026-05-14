@@ -1,0 +1,138 @@
+dropdown,"do you live in the nyc metro area at present?
+do you live in the nyc metro area at present?"
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+dropdown,"are you currently in the metro detroit area?
+are you currently in the metro detroit area?"
+text,how many years of work experience do you have with openshift?
+text,how many years of work experience do you have with container orchestration?
+dropdown,"if selected are you willing to work as our w2 employee? (if your answer is no, please do not apply)
+if selected are you willing to work as our w2 employee? (if your answer is no, please do not apply)"
+text,how many years of work experience do you have with mac?
+text,how many years of work experience do you have with desktop administration?
+text,how many years of experience with ibm aix and vio?
+text,how many years of experience with commvault and ibm tivoli?
+dropdown,"minimum 2+ years of experience in it support or in system administration
+minimum 2+ years of experience in it support or in system administration"
+dropdown,"minimum 2+ years of experience in pc troubleshooting 
+minimum 2+ years of experience in pc troubleshooting"
+dropdown,"are you willing to relocate to shreveport, la?
+are you willing to relocate to shreveport, la?"
+dropdown,"if you are not in ohio, are you willing to relocate for the opportunity?
+if you are not in ohio, are you willing to relocate for the opportunity?"
+text,how many years of work experience do you have with websphere mq?
+text,how many years of work experience do you have with system administration?
+dropdown,"do you have an iat ii certification such as a sec+?
+do you have an iat ii certification such as a sec+?"
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+text,how many years of work experience do you have with microsoft outlook?
+text,how many years of work experience do you have with internet information services (iis)?
+text,how many years of work experience do you have with websphere?
+text,how many years of work experience do you have with weblogic?
+text,how many years of work experience do you have with middleware?
+dropdown,"are you local to metro atlanta or ready to relocate to atlanta?
+are you local to metro atlanta or ready to relocate to atlanta?"
+dropdown,"do you have experience in records management concept & ibm filenet records manager components?
+do you have experience in records management concept & ibm filenet records manager components?"
+dropdown,"do you have certification in ibm p8 system administration or related ibm filenet?
+do you have certification in ibm p8 system administration or related ibm filenet?"
+dropdown,"do you have experience in document importing workflows from scanning equipment?
+do you have experience in document importing workflows from scanning equipment?"
+text,"experience using filenet p8 tools such as filenet enterprise records manager for ce administration, p8 workplace for ae administrate."
+text,"experience with filenet p8 version 5.2 and up including content navigator, acce, and websphere."
+dropdown,"veteran status
+veteran status"
+dropdown,"preferred location
+preferred location"
+radio,"notice required (negotiable?)
+notice required (negotiable?)
+yes
+no"
+text,how many years of work experience do you have with cisco certified?
+text,how many years of work experience do you have with qnxt?
+text,how many years of work experience do you have with software as a service (saas)?
+text,how many years of work experience do you have with cisco/ cisco meraki?
+text,how many years of work experience do you have with checkpoint?
+text,what is your annual salary requirement (usd)?
+radio,"please confirm which polygraph level you have.
+please confirm which polygraph level you have.
+required
+counterintelligence (ci) poly
+full-scope (ci + lifestyle) poly
+none"
+text,how many years of work experience do you have with weblogic?
+dropdown,"are you able to provide off-hours support as required for recovery activities or exercises and participate in shifts, on-call rotation for off-hours & weekend support?
+are you able to provide off-hours support as required for recovery activities or exercises and participate in shifts, on-call rotation for off-hours & weekend support?"
+text,"how many years of experience do you have with backup – cohesity, commvault, n2ws - technologies?"
+text,how many years of work experience do you have with virtualization?
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+text,how many years of systems admin experience do you have?
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+text,how many years of cloud admin experience do you have?
+radio,"do you have the following license or certification: urn:li:credential:4306?
+do you have the following license or certification: urn:li:credential:4306?
+required
+yes
+no"
+text,how many years of work experience do you have with hyper-v?
+dropdown,"do you have a ts/sci w/ poly or higher?
+do you have a ts/sci w/ poly or higher?"
+dropdown,"do you have a security +?
+do you have a security +?"
+text,how many years of work experience do you have with aix administration?
+text,how many years of work experience do you have with ibm hardware management console (hmc)?
+dropdown,"are you able to provide a demonstrated ability to synthesize business requirements into system functionality within the crm/platform and sharepoint framework?
+are you able to provide a demonstrated ability to synthesize business requirements into system functionality within the crm/platform and sharepoint framework?"
+dropdown,"a security+ or equivalent certification is required. do you meet this requirement?
+a security+ or equivalent certification is required. do you meet this requirement?"
+dropdown,"candidate must be within commuting distance of dc metro area to come on client site as required. those in chesapeake, va commuting distance will also be considered. do you meet this requirement?
+candidate must be within commuting distance of dc metro area to come on client site as required. those in chesapeake, va commuting distance will also be considered. do you meet this requirement?"
+dropdown,"a computing environment (ce) certificate or certification pertaining to the cyber workforce ia role and position is required. do you meet this requirement?
+a computing environment (ce) certificate or certification pertaining to the cyber workforce ia role and position is required. do you meet this requirement?"
+text,how many years of work experience do you have with splunk?
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+dropdown,"do you have experience with snowflake
+do you have experience with snowflake"
+text,how many years of work experience do you have with site reliability engineering?
+dropdown,"are you open for w2 work agreement from the start?
+are you open for w2 work agreement from the start?"
+text,how many years of work experience do you have with asp.net?
+text,how many years of work experience do you have with systems engineering?
+text,how many years of work experience do you have with cisco ios?
+dropdown,"are you located in a commutable distance to columbus, oh?
+are you located in a commutable distance to columbus, oh?"
+text,how many years of work experience do you have with software as a service (saas)?
+text,how many years of work experience do you have with snowflake?
+text,how many years of work experience do you have with sap erp?
+text,how many years of work experience do you have with skill development?
+text,how many years of work experience do you have with site reliability engineering?
+radio,"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no"
+text,how many years of work experience do you have with unified modeling language (uml)?
